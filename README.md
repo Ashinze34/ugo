@@ -1,4 +1,4 @@
-# ugo
+# NEXTGEN
 Used SQL to analyze employee data for NextGen Corp, uncovering insights on retention, performance, and compensation that guided strategic HR and salary decisions.
 Project Overview
 NextGen Corp, a fast-growing tech company, faced challenges with employee turnover, performance variability, and salary disparities across departments. The HR team sought a data-driven solution to uncover patterns in retention, performance, and compensation. I led the analytics effort using SQL to extract, transform, and analyze workforce data, delivering actionable insights that informed strategic HR decisions.
