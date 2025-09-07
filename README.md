@@ -44,6 +44,7 @@ Key Insights & Business Impact
 - Recommendation: Align salary spend with performance outcomes and turnover trends for sustainable growth.
 
 Outcome
+
 This SQL-driven analysis empowered NextGen Corp’s HR leadership to make informed decisions on retention, compensation, and performance management. The insights led to targeted interventions in high-risk departments, improved talent recognition, and a roadmap for equitable compensation.
 
 
